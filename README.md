@@ -1,7 +1,6 @@
 # BIENVENIDO
-*      /\ ___ /\       Daniel 
-      (  o   o  )            Parra      
-       \  >#<  /                  Parra 
-       /       \                       2191072 
-      /         \        
-     
+*      /\ ___ /\        
+      (  o   o  )      -Daniel Parra^2.       
+       \  >#<  /       -Daniel Espinel Rodriguez.
+       /       \       -Jose Luis Gamboa Santander.
+      /         \                           
